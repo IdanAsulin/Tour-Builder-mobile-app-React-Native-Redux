@@ -40,24 +40,5 @@
   },
   "jest": {
     "preset": "react-native"
-  },
-  "checkSubmission": {
-    "ex": "final",
-    "students": [
-      {
-        "id": "203949250",
-        "fullName": "Idan Asulin",
-        "email": "djidanasulin@gmail.com"
-      },
-      {
-        "id": "305475568",
-        "fullName": "Avraham Neeman",
-        "email": "aneeman2010@gmail.com"
-      }
-    ],
-    "os": "Mac",
-    "device": "iOS",
-    "deliveryDate": "30/06/2019",
-    "delay": false
   }
 }
