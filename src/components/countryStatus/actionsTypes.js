@@ -1,0 +1,5 @@
+export const ERROR = 'ERROR'
+export const FETCH_TOP_COUNTRIES = 'FETCH_TOP_COUNTRIES'
+export const ARTIST_NOT_FOUND = 'ARTIST_NOT_FOUND'
+export const COUNTRY_SELECT = 'COUNTRY_SELECT'
+export const RESET_STATE = 'RESET_STATE'
